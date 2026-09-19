@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi, I'm Jasmine ✨
 
-<!--
-**Jasmine-spec-code/Jasmine-spec-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a CS student who loves turning logic into real projects.
 
-Here are some ideas to get you started:
+💻 Java & C++ Developer
+🌱 Learning Data Structures, Recursion & GUI Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🚀 Featured Project**
+🎬 Movie Theatre Booking System (Java Swing) - seat selection, booking, ticketing
+
+**🛠️ Stack:** Java | C++ | VS Code | GitHub
+
+
+
